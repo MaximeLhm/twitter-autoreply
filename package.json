@@ -1,0 +1,32 @@
+{
+  "name": "twitter-autoreply",
+  "description": "A robot that replies to tweet with a specific word/hashtag",
+  "version": "0.0.2",
+  "homepage": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/edouardjamin/twitter-autoreply"
+  },
+  "bugs": {
+    "url": "https://github.com/edouardjamin/twitter-autoreply/issues"
+  },
+  "dependencies": {
+    "tuiter": "~0.2.12",
+    "express": "~4.9.0",
+    "firebase": "4.3.0"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  },
+  "author": {
+    "name": "Édouard JAMIN",
+    "email": "edouard.jamin@gmail.com",
+    "url": "https://github.com/edouardjamin"
+  },
+  "private": true,
+  "license": "MIT"
+}
